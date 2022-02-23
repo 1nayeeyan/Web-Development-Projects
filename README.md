@@ -15,4 +15,6 @@
     
 -    Sixth Project - Sign-up Form [HTML | CSS | JavaScript] https://github.com/1nayeeyan/sign-up-form
 
+-    Seventh Project - Admin Dashboard [HTML | CSS ] https://github.com/1nayeeyan/Admin-Dashboard
+
 
