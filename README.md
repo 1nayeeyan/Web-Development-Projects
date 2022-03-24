@@ -17,7 +17,7 @@
 
 -    Seventh Project - Admin Dashboard [HTML | CSS ] https://github.com/1nayeeyan/Admin-Dashboard
 
--    Eigth Project - Library [HTML | CSS | Javascript] https://github.com/1nayeeyan/library
+-    Eigth Project - Library [HTML | CSS | Bootstrap | Javascript] https://github.com/1nayeeyan/library
 
 -    Ninth Project - Restaurant [HTML | CSS | Javascript | Webpack | Node Modules] https://github.com/1nayeeyan/Baratie-Works-Restaurant
 
