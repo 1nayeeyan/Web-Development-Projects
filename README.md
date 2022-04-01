@@ -2,6 +2,7 @@
 # Web Development Projects
 
 
+## Static Websites
 
 -    First Project - Tribute Page [HTML | CSS] https://github.com/1nayeeyan/Lu-Ten-Tribute-Page
     
